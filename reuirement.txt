@@ -1,0 +1,10 @@
+# Requirements for the project
+1.for windows
+run all this in terminal after creating a folder (must have python pre-installed)
+ step1->python3 -m venv .venv   
+step2->.\.venv\Scripts\activate
+
+step3-> pip install streamlit requests
+step4-> streamlit run main.py       
+used api->
+API_KEY = "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"
